@@ -41,3 +41,15 @@ The best way to get started with Markdown is to use it. That’s easier than eve
 You don’t even need to download anything. There are several online Markdown editors that you can use to try writing in Markdown. 
 Dillinger is one of the best online Markdown editors. Just open the site and start typing in the left pane. A preview of the rendered
 document appears in the right pane.
+
+Why Use Markdown?
+
+You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an 
+interface to format your text? As it turns out, there are a couple different reasons why people use Markdown instead of WYSIWYG editors.
+
+Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages,
+and technical documentation.
+
+Markdown is portable. Files containing Markdown-formatted text can be opened using virtually any application. If you decide you don’t 
+like the Markdown application you’re currently using, you can import your Markdown files into another Markdown application. 
+That’s in stark contrast to word processing applications like Microsoft Word that lock your content into a proprietary file format.
