@@ -25,3 +25,12 @@ web browsers.
 Markdown applications use something called a Markdown processor (also commonly referred to as a “parser” or an “implementation”) to
 take the Markdown-formatted text and output it to HTML format. At that point, your document can be viewed in a web browser or combined
 with a style sheet and printed. You can see a visual representation of this process below.
+
+What’s Markdown Good For?
+
+Markdown is a fast and easy way to take notes, create content for a website, and produce print-ready documents.
+
+It doesn’t take long to learn the Markdown syntax, and once you know how to use it, you can write using Markdown just about everywhere.
+ Most people use Markdown to create content for the web, but Markdown is good for formatting everything from email messages to grocery lists.
+
+Here are some examples of what you can do with Markdown.
